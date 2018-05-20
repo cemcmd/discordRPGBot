@@ -1,0 +1,23 @@
+[
+
+{
+	"Name":"Punch",
+	"AttackDamage":5,
+},
+
+{
+	"Name":"Fireball",
+	"AttackDamage":30,
+},
+
+{
+	"Name":"Tiger Shot",
+	"AttackDamage":20
+},
+
+{
+	"Name":"Mystical Name of Lots of Spaces to Test if My Algorithm Works Right",
+	"AttackDamage":100
+}
+
+]

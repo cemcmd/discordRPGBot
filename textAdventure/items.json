@@ -1,0 +1,35 @@
+[
+
+{
+	"Name":"Knife",
+	"Desc":"Short, but stabby",
+	"IsWeapon":true,
+	"AttackDamage":15,
+	"Consumption":1
+},
+
+{
+	"Name":"Sword",
+	"IsWeapon":true,
+	"AttackDamage":70
+},
+
+{
+	"Name":"Wand",
+	"IsWeapon":true,
+	"AttackDamage":75.5
+},
+
+{
+	"Name":"Gun",
+	"IsWeapon":true,
+	"AttackDamage":100
+
+},
+
+{
+	"Name":"Book",
+	"IsWeapon":false
+}
+
+]
