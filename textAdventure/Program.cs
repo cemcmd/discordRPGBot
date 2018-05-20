@@ -31,7 +31,6 @@ namespace textAdventure
 
             CreatePlayer(ref players, "Trump");
             CreatePlayer(ref players, "Putin");
-            CreatePlayer(ref players, "Hitler");
 
             for (int p = 0; p < players.Count; p++)
             {
